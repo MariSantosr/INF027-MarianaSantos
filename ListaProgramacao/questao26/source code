@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+void main()
+{
+    
+    int n1,n2,n3;
+    
+    printf("Digite 3 números: \n");
+    scanf("%d", &n1);
+    scanf("%d", &n2);
+    scanf("%d", &n3);
+
+    if (){
+        
+    }
+
+}
